@@ -1,0 +1,1 @@
+python -m PyInstaller --noconfirm --onedir --windowed --add-data C:/Users/bodea/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0/LocalCache/local-packages/Python310/site-packages/customtkinter;customtkinter/  Project-1.py

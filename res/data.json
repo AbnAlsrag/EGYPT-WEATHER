@@ -1,0 +1,297 @@
+[
+    {
+        "date": [
+            2023,
+            8,
+            20
+        ]
+    },
+    {
+        "name": "Hihya",
+        "country": "EG",
+        "position": [
+            30.6713,
+            31.588
+        ],
+        "temp": 21,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Zagazig",
+        "country": "EG",
+        "position": [
+            30.5877,
+            31.502
+        ],
+        "temp": 21,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Cairo",
+        "country": "EG",
+        "position": [
+            30.0626,
+            31.2497
+        ],
+        "temp": 26,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Alexandria",
+        "country": "EG",
+        "position": [
+            31.2156,
+            29.9553
+        ],
+        "temp": 24,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Ismailia",
+        "country": "EG",
+        "position": [
+            30.6043,
+            32.2723
+        ],
+        "temp": 23,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Minya",
+        "country": "EG",
+        "position": [
+            28.1099,
+            30.7503
+        ],
+        "temp": 27,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Aswan",
+        "country": "EG",
+        "position": [
+            24.0934,
+            32.907
+        ],
+        "temp": 31,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Poor"
+    },
+    {
+        "name": "El-Tor",
+        "country": "EG",
+        "position": [
+            28.2364,
+            33.6254
+        ],
+        "temp": 28,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Luxor",
+        "country": "EG",
+        "position": [
+            25.6989,
+            32.6421
+        ],
+        "temp": 30,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Poor"
+    },
+    {
+        "name": "Hurghada",
+        "country": "EG",
+        "position": [
+            27.2574,
+            33.8129
+        ],
+        "temp": 32,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Poor"
+    },
+    {
+        "name": "Tanta",
+        "country": "EG",
+        "position": [
+            30.7885,
+            31.0019
+        ],
+        "temp": 21,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Sharm el Sheikh",
+        "country": "EG",
+        "position": [
+            27.8518,
+            34.305
+        ],
+        "temp": 34,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Al \u2018Ar\u012bsh",
+        "country": "EG",
+        "position": [
+            31.1316,
+            33.7984
+        ],
+        "temp": 25,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Mars\u00e1 Ma\u0163r\u016b\u1e29",
+        "country": "EG",
+        "position": [
+            31.3525,
+            27.2453
+        ],
+        "temp": 26,
+        "weather": "Clouds",
+        "description": "few clouds",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Port Said",
+        "country": "EG",
+        "position": [
+            31.2565,
+            32.2841
+        ],
+        "temp": 25,
+        "weather": "Clouds",
+        "description": "scattered clouds",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Damietta",
+        "country": "EG",
+        "position": [
+            31.4165,
+            31.8133
+        ],
+        "temp": 25,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Siwa",
+        "country": "EG",
+        "position": [
+            29.2041,
+            25.5195
+        ],
+        "temp": 29,
+        "weather": "Clouds",
+        "description": "scattered clouds",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Suez",
+        "country": "EG",
+        "position": [
+            29.9737,
+            32.5263
+        ],
+        "temp": 23,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Sohag",
+        "country": "EG",
+        "position": [
+            26.557,
+            31.6948
+        ],
+        "temp": 30,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Al Mansurah",
+        "country": "EG",
+        "position": [
+            31.0364,
+            31.3807
+        ],
+        "temp": 21,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Nuweiba",
+        "country": "EG",
+        "position": [
+            29.0468,
+            34.6634
+        ],
+        "temp": 30,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Moderate"
+    },
+    {
+        "name": "Al Fayyum",
+        "country": "EG",
+        "position": [
+            29.31,
+            30.8418
+        ],
+        "temp": 25,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Giza",
+        "country": "EG",
+        "position": [
+            30.0081,
+            31.2109
+        ],
+        "temp": 26,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    },
+    {
+        "name": "Talkha",
+        "country": "EG",
+        "position": [
+            31.0539,
+            31.3779
+        ],
+        "temp": 21,
+        "weather": "Clear",
+        "description": "clear sky",
+        "pollution": "Fair"
+    }
+]
